@@ -1,0 +1,1 @@
+from .global_vars import FILE_TO_WORK, HOME_DIRECTORY, WORK_DIRECTORY
